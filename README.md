@@ -1,7 +1,7 @@
 # To-do-dips
 
 ## Info
-This app was created in context of the home assignement for Dips Summer Internship 2019
+This app was created in context of the home assignment for Dips Summer Internship 2019
   
 This is a simple To-Do app, where items can be added with "Add [item]" and removed 
 with "Do #[item number]", and all items can be shown with the command "Print".
